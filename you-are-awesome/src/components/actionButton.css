@@ -1,0 +1,15 @@
+.btn-act{
+    margin-top:10rem;
+    background-image: radial-gradient( circle 400px at 6.8% 8.3%,  rgba(255,244,169,1) 0%, rgba(255,244,234,1) 100.2% );
+    border: 1px;
+    padding: 2rem;
+    border-radius: 16px;
+    font-size: 2rem;
+    font-family: 'Ms Madi', cursive;
+    font-weight: 800;
+}
+
+.btn-act:hover {
+    background-image: radial-gradient( circle 400px at 6.8% 8.3%,  rgba(255, 244, 169, 0.37) 0%, rgba(255, 244, 234, 0.863) 100.2% );
+    cursor: pointer;
+}
